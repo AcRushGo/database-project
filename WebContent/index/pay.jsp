@@ -55,8 +55,8 @@
 			</div>
 			<div class="col-sm-6 col-md-4 col-lg-3 ">
 				<div class="thumbnail">
-					<a href="action"> 
-						<img src="images/alipay.jpg" alt="支付宝支付">
+					<a href="javascript:dopay(2);">
+					<img src="images/alipay.jpg" alt="支付宝支付">
 					</a>
 				</div>
 			</div>

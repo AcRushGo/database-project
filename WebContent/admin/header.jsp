@@ -20,7 +20,6 @@
 					<li <c:if test="${flag==2}">class="active"</c:if>><a href="userList">客户管理</a></li>
 					<li <c:if test="${flag==3}">class="active"</c:if>><a href="goodList">商品管理</a></li>
 					<li <c:if test="${flag==4}">class="active"</c:if>><a href="typeList">类目管理</a></li>
-					<li <c:if test="${flag==6}">class="active"</c:if>><a href="view">数据分析</a></li>
 					<li <c:if test="${flag==5}">class="active"</c:if>><a href="adminRe">修改密码</a></li>
 					<li><a href="logout">退出</a></li>
 				</ul>

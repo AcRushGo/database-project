@@ -19,6 +19,10 @@ function buy(goodid){
 		}
 	});
 }
+
+
+
+
 /**
  * 购物车减去
  */
